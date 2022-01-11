@@ -6,8 +6,13 @@ git add -A
 COMMIT
 git commit -m "Inclusão das anotações do curso de Git/GitHub"
 
+ADICIONAR A ORIGEM
+git remote add origin (link copiado no GitHub)
+
 DAR PUSH
 git push origin main
+OU
+git push origin master
 
 CONFIGURAR USUARIO NO GITBASH
 git config --global user.name "SEU USER"
@@ -20,6 +25,9 @@ git init
 
 VER SE O GIT IDENTIFICOU
 git status
+
+
+
 
 
 
